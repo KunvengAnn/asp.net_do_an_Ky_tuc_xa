@@ -1,0 +1,10 @@
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\bin\QuanLyKTX_Do_an.dll.config
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\bin\QuanLyKTX_Do_an.dll
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\bin\QuanLyKTX_Do_an.pdb
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\bin\Newtonsoft.Json.dll
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\bin\Newtonsoft.Json.xml
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\obj\Debug\QuanLyKTX_Do_an.csproj.AssemblyReference.cache
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\obj\Debug\QuanLyKTX_Do_an.csproj.CoreCompileInputs.cache
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\obj\Debug\QuanLyKTX_Do_an.csproj.CopyComplete
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\obj\Debug\QuanLyKTX_Do_an.dll
+D:\c#_and_dot_net_web\QuanLyKTX_Do_an\obj\Debug\QuanLyKTX_Do_an.pdb

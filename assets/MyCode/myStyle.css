@@ -1,0 +1,72 @@
+﻿.customHeigth {
+    height: 200px;
+}
+
+.customColor {
+    background: green;
+}
+
+.customSizeImage {
+    height: 100px;
+    width: 100px;
+}
+
+.customMarginTop {
+    margin-top: 10px;
+}
+
+.customSizeDom {
+    width:100%;height:600px;
+}
+
+
+
+
+
+.colortest {
+    background: blue;
+}
+
+
+
+
+/* CSS to create the text slide effect */
+#slidestyle {
+    overflow: hidden;
+    width: 100%; /* Adjust the width of the container */
+    white-space: nowrap;
+    position: relative; /* Add position relative for better control */
+    /*Set center text*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-slider {
+    display: inline-block;
+    animation: slideText 15s linear infinite; /* Adjust the animation speed */
+    width: max-content; /* Ensures that the text slider takes the width of its content */
+    position: absolute; /* Position the text slider */
+    top: 0; /* Position from top */
+    left: 0; /* Start from left */
+}
+
+@keyframes slideText {
+    0% {
+        transform: translateX(-80%);
+    }
+
+    /*1% {
+        transform: translateX(0);*/ /* Fast initial movement to show from left */
+    /*}*/
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+/* Additional styling as needed */
+/*.text-slider p {
+    display: inline-block;
+    margin-right: 20px;*/ /* Adjust spacing between texts */
+/*}*/
